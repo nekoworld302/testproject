@@ -3,3 +3,4 @@ public class testing {
         System.out.println("hello");
     }
 }
+// hello를 출력합니다.
